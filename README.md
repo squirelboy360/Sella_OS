@@ -21,8 +21,8 @@ SellaOS is a cutting-edge platform that empowers businesses to streamline their 
 The SellaOS Admin UI empowers businesses with comprehensive control over their inventory, analytics, and payment settings.
 
 <div align="center">
-  <img src="https://github.com/squirelboy360/Sella_OS/screenshots/admin1.png" alt="Admin UI Screenshot 1" width="250" />
-  <img src="https://github.com/squirelboy360/Sella_OS/screenshots/terminal1.png" width="250" /> 
+  <img src="https://github.com/squirelboy360/Sella_OS/blob/main/screenshots/admin1.png" alt="Admin Panel" width="250" />
+<!--   <img src="https://github.com/squirelboy360/Sella_OS/screenshots/terminal1.png" width="250" />  -->
 </div>
 
 ## Client UI
@@ -30,8 +30,8 @@ The SellaOS Admin UI empowers businesses with comprehensive control over their i
 The SellaOS Client UI offers a sleek and intuitive interface for customers to browse products, make payments, and manage their orders.
 
 <div align="center">
-  <img src="https://example.com/client_ui_1.png" alt="Client UI Screenshot 1" width="250" />
-  <img src="https://example.com/client_ui_2.png" alt="Client UI Screenshot 2" width="250" />
+  <img src="https://github.com/squirelboy360/Sella_OS/blob/main/screenshots/terminal1.png" alt="Integrated Scan To Pay POS" width="250" />
+<!--   <img src="https://example.com/client_ui_2.png" alt="Client UI Screenshot 2" width="250" /> -->
 </div>
 
 ## Security
