@@ -14,7 +14,7 @@ SellaOS is a cutting-edge platform that empowers businesses to streamline their 
 
 - **Scan and Pay**: Simplify the payment process for your customers with SellaOS's innovative scan and pay feature. Customers can quickly scan a product and make payments effortlessly, enhancing their shopping experience.
 
-- **Safe for the environment and efficient**: Send reciepts directly to customers automatically when the transaction is complete via Email saving you paper and electricity money. Also **Eco-Friendly** and efficient for your customers by having all their receipts safe in their email for reference.
+- **Safe for the environment and efficient**: Send reciepts directly to customers automatically when the transaction is complete via Email saving you paper and electricity money. Also **Eco-Friendly** and efficient for your customers by having all their receipts saved in their email for reference.
 
 ## Admin UI
 
