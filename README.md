@@ -21,8 +21,8 @@ SellaOS is a cutting-edge platform that empowers businesses to streamline their 
 The SellaOS Admin UI empowers businesses with comprehensive control over their inventory, analytics, and payment settings.
 
 <div align="center">
-  <img src="https://example.com/admin_ui_1.png" alt="Admin UI Screenshot 1" width="250" />
-  <img src="https://example.com/admin_ui_2.png" alt="Admin UI Screenshot 2" width="250" /> 
+  <img src="https://github.com/squirelboy360/Sella_OS/screenshots/admin1.png" alt="Admin UI Screenshot 1" width="250" />
+  <img src="https://github.com/squirelboy360/Sella_OS/screenshots/terminal1.png" width="250" /> 
 </div>
 
 ## Client UI
