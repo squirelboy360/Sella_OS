@@ -51,7 +51,7 @@ To start using SellaOS for your business, follow these simple steps:
 3. Subscribe to become an official member of the Operating System.
 4. Set up your inventory and optionally configure your payment gateways.
 5. Create a client device with the tap of a button.
-6. From the client device created, copy the id and you company id (These credentials can be used to authenticate and use any device with a screen to a POS for collecting payments. 
+6. From the client device created, copy the id and you company id (These credentials can be used by any device with a screen to authenticate allowing you  collect secure payments from customers straight into your bank account). 
 7. Start managing your inventory, accessing analytics, and providing a seamless payment experience to your customers.
 
 For more information and detailed documentation, visit our [official website](https://sellaos.com) or contact our support team at [support@sellaos.com](mailto:support@sellaos.com).
