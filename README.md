@@ -1,7 +1,7 @@
 # SellaOS - Secure Inventory Management and Payment Platform
 
 <div align="center">
-  <img src="https://github.com/squirelboy360/Sella_OS/blob/main/screenshots/logo.png" alt="Admin Panel" width="320" />
+  <img src="https://github.com/squirelboy360/Sella_OS/blob/main/screenshots/logo.png" alt="Logo" width="30" />
 <!--   <img src="https://github.com/squirelboy360/Sella_OS/screenshots/terminal1.png" width="250" />  -->
 </div>
 
