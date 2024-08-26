@@ -1,6 +1,9 @@
 # SellaOS - Secure Inventory Management and Payment Platform
 
-SellaOS Logo
+<div align="center">
+  <img src="https://github.com/squirelboy360/Sella_OS/blob/main/screenshots/logo.png" alt="Admin Panel" width="320" />
+<!--   <img src="https://github.com/squirelboy360/Sella_OS/screenshots/terminal1.png" width="250" />  -->
+</div>
 
 SellaOS is a cutting-edge platform that empowers businesses to streamline their inventory management and provide customers with a seamless, secure payment experience. With SellaOS, businesses can create a comprehensive inventory of their products, access powerful analytics, and offer their customers a versatile payment client with multiple payment gateways.
 
