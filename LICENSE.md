@@ -13,7 +13,7 @@ Licensee shall not, and shall not permit any third party to:
 - *Copy, modify, adapt, alter, translate, or create derivative works of the Software*
 - **Reverse engineer, decompile, disassemble, or otherwise attempt to discover the source code or underlying ideas or algorithms of the Software**
 - ***Rent, lease, lend, sell, sublicense, assign, distribute, publish, transfer, or otherwise make available the Software to any third party***
-- ~~Remove or alter any proprietary notices or labels on the Software~~
+- *Remove or alter any proprietary notices or labels on the Software*
 
 ## 3. Ownership
 
