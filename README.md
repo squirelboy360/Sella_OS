@@ -30,7 +30,7 @@ The SellaOS Admin UI empowers businesses with comprehensive control over their i
 
 ## Client UI
 
-The SellaOS Client UI offers a sleek and intuitive interface for easy browsing of products, making of payments, and managing of Transactions.
+The SellaOS Client UI offers a sleek and intuitive interface for easy browsing of products, making of payments, managing of Transactions and can integrate into some of your already existing accesories like barcode scanners if required.
 
 <div align="center">
   <img src="https://github.com/squirelboy360/Sella_OS/blob/main/screenshots/terminal1.png" alt="Integrated Scan To Pay POS" width="720" />
