@@ -9,7 +9,7 @@ SellaOS is a cutting-edge platform that empowers businesses to streamline their 
 
 # Breaking Update!! (v2.0.0)
 
-SellaOS is migrating from 3rd party background services to our own internal tools as we strive to make our platform even more secured and generally better. Some of our new internal tools we would be using underground includes a tool that ensures stolen cards are restricted from making transactions that can be a future threat to your business by causing payment disputes. We are currently building another tool to improve customer experience by allowing them make payments to you with a simple tap of device/card on your terminal without aditional accesories. We are also reducing our heavy abstraction layer on top of stripe so that you don't feel limited in terms of the features Stripe offers. With all these breaking changes being processed, we would kindly advise you join our waitlist by visiting <a>https://sellaos.com</a> and join our discord community for free for updates💬 <a>https://discord.gg/yFes6YtvRb</a>. We would also like to make a quick mention that from hence, our dedicated desktop apps are being depracated due to large complaints from our customers about the dificulty/insaccesibility of the platform in favour of;
+SellaOS is migrating from 3rd party background services to our own internal tools as we strive to make our platform even more secured and generally better. Some of our new internal tools we would be using underground includes a tool that ensures stolen cards are restricted from making transactions that can be a future threat to your business by causing payment disputes. We are currently building another tool to improve customer experience by allowing them make payments to you with a simple tap of device/card on your terminal without aditional accessories. We are also reducing our heavy abstraction layer on top of stripe so that you don't feel limited in terms of the features Stripe offers. With all these breaking changes being processed, we would kindly advise you join our waitlist by visiting <a>https://sellaos.com</a> and join our discord community for free for updates💬 <a>https://discord.gg/yFes6YtvRb</a>. We would also like to make a quick mention that from hence, our dedicated desktop apps are being depracated due to large complaints from our customers about the dificulty/insaccesibility of the platform in favour of;
 <ul>
   <li>Web🌐 for the inventory management tool</li> 
 <li>IOS and android for the universally accessible terminals/POS.</li>
@@ -38,7 +38,7 @@ The SellaOS Admin UI empowers businesses with comprehensive control over their i
 
 ## Client UI
 
-The SellaOS Client UI offers a sleek and intuitive interface for easy browsing of products, making of payments, managing of Transactions and can integrate into some of your already existing accesories like barcode scanners if required.
+The SellaOS Client UI offers a sleek and intuitive interface for easy browsing of products, making of payments, managing of Transactions and can integrate into some of your already existing accessories like barcode scanners if required.
 
 <div align="center">
   <img src="https://github.com/squirelboy360/Sella_OS/blob/main/screenshots/terminal1.png" alt="Integrated Scan To Pay POS" width="720" />
