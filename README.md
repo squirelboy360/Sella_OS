@@ -7,6 +7,14 @@
 
 SellaOS is a cutting-edge platform that empowers businesses to streamline their inventory management and provide customers with a seamless, secure payment experience. With SellaOS, businesses can create a comprehensive inventory of their products, access powerful analytics, and offer their customers a versatile payment client with multiple payment gateways.
 
+# Breaking Update!! (v2.0.0)
+
+SellaOS is migrating from 3rd party background services to our own internal tools as we strive to make security and integration with other platforms like stripe secure. Some of our new internal tools we would be using underground includes a tool that ensures stolen cards are restricted from making transactions that can be a future threat to your business by causing payment disputes. We are currently building another tool to improve customer experience by allowing them make payments to you with a simple tap of device/card on your terminal without aditional accesories. We are also reducing our heavy abstraction layer on top of stripe so that you don't feel limited in terms of the features Stripe offers. With all these breaking changes being processed, we would kindly advise you join our waitlist by visiting <a>https://sellaos.com</a> and join our discord community for free for updates💬 <a>https://discord.gg/yFes6YtvRb</a>. We would also like to make a quick mention that from hence, our dedicated desktop apps are being depracated due to large complaints from our customers about the dificulty/insaccesibility of the platform in favour of;
+<ul>
+  <li>Web🌐 for the inventory management tool</li> 
+<li>IOS and android for the universally accessible terminals/POS.</li>
+</ul>
+
 ## Key Features
 
 - **Secure Inventory Management**: SellaOS utilizes state-of-the-art encryption and data protection measures to ensure the safety and confidentiality of your business's inventory information.
