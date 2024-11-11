@@ -1,5 +1,4 @@
-# SellaOS - Secure Inventory Management and Payment Platform
-
+# (Discontinued) SellaOS - Secure Inventory Management and Payment Platform
 <div align="center">
   <img src="https://github.com/squirelboy360/Sella_OS/blob/main/screenshots/logo.png" alt="Logo" width="80" />
 <!--   <img src="https://github.com/squirelboy360/Sella_OS/screenshots/terminal1.png" width="250" />  -->
